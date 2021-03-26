@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Report a bug.
-title: Bug
+title: [Version name here] Insert Brief Description Of Bug Here
 labels: bug, duplicate, help wanted, wontfix
 assignees: ''
 
@@ -27,7 +27,19 @@ If applicable, add screenshots to help explain your problem.
 If applicable
 
 **Installed DLC**
-Put Installed DLC Here
+
+- [ ] Plantoids Species Pack
+- [ ] Leviathans
+- [ ] Utopia
+- [ ] Synthetic Dawn
+- [ ] Humanoids Species Pack
+- [ ] Apocolipse
+- [ ] Distant Stars
+- [ ] Megacorp
+- [ ] Lithoids Species Pack
+- [ ] Ancient Relics
+- [ ] Federations
+- [ ] Necroids
 
 **Additional context**
 Add any other context about the problem here.
