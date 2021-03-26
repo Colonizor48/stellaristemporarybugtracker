@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Report a bug.
-title: [Version name here] Insert Brief Description Of Bug Here
+title:  Insert Brief Description Of Bug Here and versnion
 labels: bug, duplicate, help wanted, wontfix
 assignees: ''
 
